@@ -7,3 +7,5 @@ jupyter
 python-dotenv
 certifi
 bs4
+chromadb
+langchainhub

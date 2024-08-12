@@ -1,0 +1,5 @@
+
+delete all nodes with relationships
+match (a) -[r] -> () delete a, r
+delete nodes that have no relationships
+match (a) delete a
